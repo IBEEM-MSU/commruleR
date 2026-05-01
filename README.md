@@ -8,16 +8,15 @@ IBEEM](https://ibeem.msu.edu)**
 
 ### Authors:
 
-- Patrick S Bills
-- Ashwini Ramesh
-- Laís Petri
-- Phoebe Lehman Zarnetske, PI and Director, IBEEM
-
-### Contributors:
-
-- Kelly Kapsar, Data Scientist, IBEEM
+- Patrick S Bills, MSU Institute for Cyber-Enabled Research
 - Alejandra Martinez Blancas
+- Laís Petri
+- Ashwini Ramesh
 - Amar Deep Tiwari
+- [Kelly Kapsar, Data Scientist,
+  IBEEM](https://ibeem.msu.edu/team/kelly-kapsar/)
+- [Phoebe Lehman Zarnetske, PI and Director,
+  IBEEM](https://www.communityecologylab.com/)
 
 <!-- badges: start -->
 
