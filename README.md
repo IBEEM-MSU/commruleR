@@ -21,8 +21,12 @@ IBEEM](https://ibeem.msu.edu)**
 
 <!-- badges: start -->
 
-[![Lifecycle:
-experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![NetflixOSS
+Lifecycle](https://img.shields.io/osslifecycle/Netflix/osstracker.svg)]()
+
+<!-- previous baged 
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental) -->
+
 <!-- badges: end -->
 
 ### Motivation
