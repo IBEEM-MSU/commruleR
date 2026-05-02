@@ -9,12 +9,13 @@ IBEEM](https://ibeem.msu.edu)**
 ### Authors:
 
 - Patrick S Bills, MSU Institute for Cyber-Enabled Research
-- Alejandra Martinez Blancas
-- Laís Petri
-- Ashwini Ramesh
-- Amar Deep Tiwari
+- [Alejandra Martinez
+  Blancas](https://www.researchgate.net/profile/Alejandra-Martinez-Blancas)
+- [Laís Petri](https://www.laispetri.com/)
+- [Ashwini Ramesh](https://www.ashwini-ramesh.com/)
+- [Amar Deep Tiwari](http://www.amardeeptiwari.com/)
 - [Kelly Kapsar, Data Scientist,
-  IBEEM](https://ibeem.msu.edu/team/kelly-kapsar/)
+  IBEEM](https://kellykapsar.netlify.app/)
 - [Phoebe Lehman Zarnetske, PI and Director,
   IBEEM](https://www.communityecologylab.com/)
 
