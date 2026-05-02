@@ -6,8 +6,14 @@ Authors@R:
         comment = c(ORCID = "0000-0003-4235-255X")),
     person("Ashwini", "Ramesh", "", "ashwini.ramesh@yale.edu", role = c("aut","dtc"),
         comment = c(ORCID = "0000-0003-1629-7024")),
-    person("Laís", "Petri", "", "petrila1@msu.edu", role = c("aut", "dtc"),
+    person("Laís", "Petri", "", "lais.petri@siu.edu", role = c("aut", "dtc"),
         comment = c(ORCID = "0000-0001-9727-1939")),
+    person("Amar Deep", "Tiwari", "", "amarti@msu.edu", role = c("aut", "dtc"),
+        comment = c(ORCID = "0000-0003-1649-8889")),
+    person("Alejandra", "Martinez Blancas", "", "amartinezblan@utep.edu", role = c("aut", "dtc"),
+        comment = c(ORCID = "0000-0003-4669-0257")),
+    person("Kelly", "Kapsar", "", "kapsar@msu.edu", role = c("aut", "dtc"),
+        comment = c(ORCID = "0000-0002-2048-5020")),
     person("Phoebe Lehman", "Zarnetske", "", "plz@msu.edu", role = c("aut","fnd"),
         comment = c(ORCID = "0000-0001-6257-6951"))
     )
