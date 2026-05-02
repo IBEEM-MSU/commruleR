@@ -4,7 +4,7 @@ pkgdown_sha: ~
 articles:
   google_sheets_api: google_sheets_api.html
   process_overview: process_overview.html
-last_built: 2026-03-13T20:53Z
+last_built: 2026-05-02T04:33Z
 urls:
   reference: https://github.com/IBEEM-MSU/collaboratR/reference
   article: https://github.com/IBEEM-MSU/collaboratR/articles
