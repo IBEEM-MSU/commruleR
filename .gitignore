@@ -1,6 +1,7 @@
 .Rproj.user
 .Renviron
 renv/
+.RData
 .DS_Store
 .Rhistory
 ~$*.xlsx
