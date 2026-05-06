@@ -10,6 +10,7 @@ inst/doc
 inst/credentials/
 *.csv
 L0
+tests/testthat/_problems 
 
 
 
