@@ -12,6 +12,7 @@ test_that("tests work", {
 
 test_that("can setup auth to google drive", {
   result = gdrive_setup()
+  google_auth_for_testing()
   expect_true(result)
 })
 

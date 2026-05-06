@@ -14,7 +14,7 @@ test_that("can read biomass", {
 
 })
 
-test_that("can read biomass rules", {
+test_that("can read example rules", {
   yaml_file <- "../../inst/rules/biomass_validation_rules.yaml"
   expect_true(file.exists(yaml_file))
   validation_rules <- validate::validator(.file= yaml_file)
